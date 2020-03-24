@@ -1,5 +1,5 @@
 # AltruismProject
-A school project about altruism made by Cooper Werner
+A school project about altruism made by Cooper Werner.
 Images and CSS are necessary for the file to work.
 Thank you
 
